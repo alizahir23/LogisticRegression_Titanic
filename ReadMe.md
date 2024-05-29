@@ -14,7 +14,7 @@ This repository hosts a data science project analyzing the survival of passenger
 
   ![missing_data_heatmap.png](https://i.ibb.co/8m9x2Lk/missing-data-heatmap.png)
 
-### 2. Survival Count by Gender
+### 2. Survival Count by  Gender
 
 - **Objective**: Explore the survival count based on gender.
 - **Method**: Generated a count plot comparing survival rates between genders.
